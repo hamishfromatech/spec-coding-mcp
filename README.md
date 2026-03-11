@@ -299,6 +299,18 @@ Built with **FastMCP**, which provides:
 - **Clean code**: ~60% less boilerplate than the raw MCP SDK
 - **Automatic stdio handling**: Simple `mcp.run()` entry point
 
+## About
+
+Made and maintained by [The A-Tech Corporation PTY LTD](https://theatechcorporation.com).
+
+Follow on YouTube: [@hamishfromatech](https://youtube.com/@hamishfromatech)
+
 ## License
 
 MIT
+
+## Author
+
+Made and maintained by [The A-Tech Corporation PTY LTD](https://theatechcorporation.com).
+
+Follow on YouTube: [@hamishfromatech](https://youtube.com/@hamishfromatech)
